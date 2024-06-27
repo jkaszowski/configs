@@ -1,0 +1,18 @@
+[window]
+decorations = "Full"
+opacity = 0.9
+
+[font]
+size = 13.0
+glyph_offset = {x = 1}
+
+[font.normal]
+family = "FiraCode Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "FiraCode Nerd Font"
+style = "Bold"
+
+[colors.primary]
+background = "#000000"
